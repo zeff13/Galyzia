@@ -1,2 +1,2 @@
 # Galyzia
-untuk uji coba 
+for testing 
