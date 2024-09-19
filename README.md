@@ -1,6 +1,6 @@
 # Galyzia
 
-berfungsi disaja windowns
+berfungsi di windowns saja
 
 
 buka file main.bat untuk menggunakannya,
